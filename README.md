@@ -1,11 +1,13 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
+# Birds' Nest Toolchanger USB Hub
+![Birds' Nest PCB](.)
 
-### Features
+Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead PCBs. It features:
+- 6x USB Outs for Up To 6 Toolheads, Protected
+- 6x Filament Sensor Connectors
+- 4x Thermistor Connectors
+- 2x 5V RGB Connectors
 
-Only add if there are features worth explaining/listing in a table.
-
-## Purchasing a XXX
+## Purchasing a Birds' Nest
 ### United States
 - [Isik's Tech](.) (Me)
 
@@ -16,27 +18,7 @@ You can also use the included gerber files to order your own from a PCB manufact
 
 ## Instructions
 
-...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
+[Birds' Nest Manual](.)
 
 ## YouTube
 
