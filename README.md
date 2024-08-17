@@ -1,5 +1,5 @@
 # Birds' Nest Toolchanger USB Hub
-![Birds' Nest PCB](.)
+![Birds' Nest PCB](./Images/PCB.jpg)
 
 Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead PCBs. It features:
 - 6x USB Outs for Up To 6 Toolheads, Protected
@@ -9,7 +9,7 @@ Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead
 
 ## Purchasing a Birds' Nest
 ### United States
-- [Isik's Tech](.) (Me)
+- [Isik's Tech](https://store.isiks.tech/products/birds-nest) (Me)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
@@ -18,7 +18,7 @@ You can also use the included gerber files to order your own from a PCB manufact
 
 ## Instructions
 
-[Birds' Nest Manual](.)
+[Birds' Nest Manual](./Docs/Birds-Nest-Manual.pdf)
 
 ## YouTube
 
