@@ -25,11 +25,7 @@ Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead
 - [West 3D](https://west3d.com/products/birds-nest-usb-hub-for-toolchangers-pcb-by-isiks-tech)
 ### European Union
 - [Lab4450 (Portugal)](https://lab4450.com/product/birds-nest-usb-hub-for-toolchanger/)
-
-### Other Trusted Vendors
-These vendors source their PCBs from other sources, but are trusted vendors on Voron and Voron-related communities.
-
-[TBD]
+- [Alchemy 3D (Germany)](https://alchemy3d.de/products/birds-nest-usb-hub-by-isik-s-tech)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
