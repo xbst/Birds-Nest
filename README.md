@@ -8,20 +8,10 @@ Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead
 - 2x 5V RGB Connectors
 
 ## Purchasing a Birds' Nest
-### Buy From Me
-- Each PCB tested by me
-- All connectors needed are included (if applicable)
-- Supports the development of open-source projects like this
-- Ships worldwide
 
 #### United States
 - [Isik's Tech](https://store.isiks.tech/products/birds-nest)
-
-### Resellers
-- Each PCB tested by me
-- All connectors needed are included (if applicable)
-- Supports the development of open-source projects like this
-#### United States
+- [Amazon (Prime Shipping)](https://www.amazon.com/dp/B0FK8LYMK9?maas=maas_adg_F14DC044A4F0262279C572C1F8E86CE2_afap_abs&ref_=aa_maas&tag=maas)
 - [West 3D](https://west3d.com/products/birds-nest-usb-hub-for-toolchangers-pcb-by-isiks-tech)
 ### European Union
 - [Lab4450 (Portugal)](https://lab4450.com/product/birds-nest-usb-hub-for-toolchanger/)
