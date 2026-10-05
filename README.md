@@ -9,22 +9,11 @@ Birds' Nest is a USB hub PCB designed for toolchanger printers with USB toolhead
 
 ## Purchasing a Birds' Nest
 
-#### United States
-- [Isik's Tech](https://store.isiks.tech/products/birds-nest)
-- [Amazon (Prime Shipping)](https://www.amazon.com/dp/B0FK8LYMK9?maas=maas_adg_F14DC044A4F0262279C572C1F8E86CE2_afap_abs&ref_=aa_maas&tag=maas)
-- [West 3D](https://west3d.com/products/birds-nest-usb-hub-for-toolchangers-pcb-by-isiks-tech)
-### European Union
-- [Lab4450 (Portugal)](https://lab4450.com/product/birds-nest-usb-hub-for-toolchanger/)
-- [Alchemy 3D (Germany)](https://alchemy3d.de/products/birds-nest-usb-hub-by-isik-s-tech)
-
-This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
-
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/). Make sure to order 2 oz inner layers.
-<br>
+[Isik's Tech Official Store](https://store.isiks.tech/products/birds-nest)
 
 ## Instructions
 
-[Birds' Nest Manual](./Docs/Birds-Nest-Manual.pdf)
+[Birds' Nest Manual](https://docs.isiks.tech/birds-nest/usb/manual/)
 
 ## YouTube
 
